@@ -7,11 +7,12 @@ for(let i=1; i<=l; i++)
  count++;
  }
 }
-if(count==2)
-{
-  console.log("It is prime number");
+if(count==2){
+
+console.log("it is prime");
+
 }
-else
-{
-  console.log("It is not a prime number);
+else{
+
+console.log("Not prime");
 }
